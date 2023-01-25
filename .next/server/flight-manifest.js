@@ -159,11 +159,11 @@ self.__RSC_MANIFEST={
   },
   "__edge_ssr_module_mapping__": {},
   "__entry_css_files__": {
-    "/Users/abdulbasidyener/Desktop/AppChallengs/HuluApp/app/layout": [
-      "static/css/_app-client_app_globals_css.css"
-    ],
     "/Users/abdulbasidyener/Desktop/AppChallengs/HuluApp/app/page": [
       "static/css/_app-client_node_modules_next_font_google_target_css_path_app_page_jsx_import_Inter_arguments-18860c.css"
+    ],
+    "/Users/abdulbasidyener/Desktop/AppChallengs/HuluApp/app/layout": [
+      "static/css/_app-client_app_globals_css.css"
     ]
   },
   "/Users/abdulbasidyener/Desktop/AppChallengs/HuluApp/assest/images/hulu-white.png": {
@@ -452,21 +452,21 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "/Users/abdulbasidyener/Desktop/AppChallengs/HuluApp/app/globals.css": {
-    "default": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/_app-client_app_globals_css.css"
-      ]
-    }
-  },
   "/Users/abdulbasidyener/Desktop/AppChallengs/HuluApp/node_modules/@next/font/google/target.css?{\"path\":\"app/page.jsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}": {
     "default": {
       "id": "null",
       "name": "default",
       "chunks": [
         "static/css/_app-client_node_modules_next_font_google_target_css_path_app_page_jsx_import_Inter_arguments-18860c.css"
+      ]
+    }
+  },
+  "/Users/abdulbasidyener/Desktop/AppChallengs/HuluApp/app/globals.css": {
+    "default": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/_app-client_app_globals_css.css"
       ]
     }
   }
