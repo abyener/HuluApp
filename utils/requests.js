@@ -26,7 +26,7 @@ export default {
     url: `/discover/movie?api_key={API_KEY}&lith-genres=10749`,
   },
   fetchMystery: {
-    title: "Mystery:",
+    title: "Mystery",
     url: `/discover/movie?api_key=${API_KEY}&lith-genres=9648`,
   },
   fetchSciFi: {
