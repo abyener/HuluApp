@@ -1,5 +1,5 @@
 {
-  "name": "hulu",
+  "name": "hulu-clone",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,19 +9,18 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@heroicons/react": "v1",
-    "@next/font": "13.1.5",
-    "eslint": "8.32.0",
-    "eslint-config-next": "13.1.5",
-    "next": "13.1.5",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "tailwind-scrollbar-hide": "^1.1.7",
-    "yarn": "^1.22.19"
+    "@heroicons/react": "^1.0.3",
+    "next": "11.0.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-flip-move": "^3.0.4",
+    "tailwind-scrollbar-hide": "^1.0.3"
   },
   "devDependencies": {
-    "autoprefixer": "^10.4.13",
-    "postcss": "^8.4.21",
-    "tailwindcss": "^3.2.4"
+    "autoprefixer": "^10.3.1",
+    "eslint": "7.32.0",
+    "eslint-config-next": "11.0.1",
+    "postcss": "^8.3.6",
+    "tailwindcss": "^2.2.7"
   }
 }
